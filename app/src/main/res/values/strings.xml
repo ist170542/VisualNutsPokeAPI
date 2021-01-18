@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InteractionPokeAPI</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_nav_drawer">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_list_pokemons">"List pokemons"</string>
+    <string name="menu_list_favourite_pokemons">"Favourite pokemons"</string>
+
+    <string name="name_field">Name: %s</string>
+    <string name="id_field">ID: %d</string>
+    <string name="height_field">Height: %d</string>
+    <string name="order_field">Order: %d</string>
+    <string name="weight_field">Weight: %d</string>
+    <string name="base_experience_field">Base experience: %d</string>
+
+    <string name="pokemon_details">Pokemon details</string>
+
+</resources>
